@@ -4,3 +4,4 @@ I developed a fully polynomial-time optimal algorithm to transform a given seque
 This notebook is part of the research based on paper _Migration from Sequence to Schedule in Total Earliness and Tardiness Scheduling Problem_. ([here](http://www.optimization-online.org/DB_HTML/2019/07/7280.html)).
 
 > This notebook runs on Python 2.
+> The algorithm uses the sub-modularity property of the objective function to generate a semi-active schedule.
